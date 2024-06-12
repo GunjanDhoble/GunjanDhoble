@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gunjan Dhoble</h1>
-<h3 align="center">A passionate Tester from India</h3>
+<h3 align="center">A passionate Software Tester from India</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads.toptal.io/blog/image/92578/toptal-blog-image-1464707278877-5d257339eb6b911f3a32f772da07f6f0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhoble&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhoble" /> </p>
